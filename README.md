@@ -1,16 +1,25 @@
-# React + Vite
+Project Description:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Incredible India Travel Planner is an interactive web application built with React and Tailwind CSS that helps users explore India effortlessly. It leverages AI-powered content generation to create personalized travel itineraries and recommendations based on user inputs such as region, interests, and preferred language.
 
-Currently, two official plugins are available:
+The project features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Immersive Landing Page: A full-screen video background showcasing India’s natural beauty and heritage, with a bold heading and “Explore Now” call-to-action.
 
-## React Compiler
+Personalized Travel Planner: Users can select a state/region, their interests (beaches, wildlife, culture, etc.), and preferred language to generate a custom 5-day travel itinerary with the best time to visit.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+AI Integration: Utilizes Google’s Generative Language API to provide dynamic, high-quality travel recommendations with markdown-based formatting for clarity.
 
-## Expanding the ESLint configuration
+Responsive and Modern UI: Fully responsive layout, visually appealing gradient backgrounds, image collages, and interactive buttons, designed with Tailwind CSS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+User Experience Focus: Loading indicators, error handling, and fallback prompts ensure smooth interaction even during network delays.
+
+Key Technologies Used:
+
+React for dynamic, component-based UI.
+
+Tailwind CSS for modern, responsive styling.
+
+Lucide Icons for sleek, interactive iconography.
+
+Google Generative Language API for AI-generated travel content.
